@@ -10,7 +10,7 @@ Projeto EBOOK Gerado por I.A.s
 
 🧠 Prompts CHatGPT:
 - Título - 	"crie um título de um ebook sobre o tema "principais comandos SQL", o ebook é voltado para pessoas iniciantes no tema, o título deve ser épico e curto, me liste 5 variações de títulos".
-- Desenho de Capa:
+- Desenho de Capa: "crie uma imagem para ser a capa de um ebook com o tema "Primeiros Passos com SQL: Conheça os principais comandos". A imagem deve ter sintonia com tecnologia, base de dados e navegação".
 - Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
 Midjourney：
 
