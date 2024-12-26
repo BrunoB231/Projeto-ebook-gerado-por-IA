@@ -9,8 +9,9 @@ Projeto EBOOK Gerado por I.A.s
 - PowerPoint
 
 🧠 Prompts CHatGPT:
-- Título	Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos
-conteúdo	Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
+- Título - 	"crie um título de um ebook sobre o tema "principais comandos SQL", o ebook é voltado para pessoas iniciantes no tema, o título deve ser épico e curto, me liste 5 variações de títulos".
+- Desenho de Capa:
+- Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
 Midjourney：
 
 Ação	prompt
